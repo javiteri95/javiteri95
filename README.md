@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is José Viteri. I am from Guayaquil, Ecuador. Right now my interests are around Full Stack Web Development and Machine Learning. Currently I'm working on [INARI Research Lab](https://inarilab.com/) building deep learning systems ready to launch them on Production. 
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jos%C3%A9-viteri/) , My mails: josevns95@gmail.com and javiteri@espol.edu.ec.
+- 😄 Pronouns: He/Him
+
+
 <!--
 **javiteri95/javiteri95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
