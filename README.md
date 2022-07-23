@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is José Viteri. I am from Guayaquil, Ecuador. Right now my interests are around Full Stack Web Development and Machine Learning. Currently I'm working on [INARI Research Lab](https://inarilab.com/) building deep learning systems ready to launch them on Production. 
+My name is José Viteri. I am from Guayaquil, Ecuador. Right now my interests are around Full Stack Web Development and Machine Learning. Currently I'm working on [Rappi](https://www.rappi.com.ec/) building machine learning systems ready to launch them on Production. 
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jos%C3%A9-viteri/) , My mails: josevns95@gmail.com and javiteri@espol.edu.ec.
 - 😄 Pronouns: He/Him
