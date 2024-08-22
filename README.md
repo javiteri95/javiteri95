@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is José Viteri. I am from Guayaquil, Ecuador. Right now my interests are around Full Stack Web Development and Machine Learning. Currently I'm working on [Rappi](https://www.rappi.com.ec/) building machine learning systems ready to launch them on Production. 
+My name is José Viteri, originally from Guayaquil, Ecuador. I currently reside in Munich, Germany, where I am pursuing a Master’s degree in Data Engineering and Analytics at the [Technical University of Munich (TUM)](https://www.tum.de/en/). My primary focus lies in Full Stack Web Development and Machine Learning, with a particular interest in designing and building the machine and deep learning models of the future.
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jos%C3%A9-viteri/) , My mails: josevns95@gmail.com and javiteri@espol.edu.ec.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jos%C3%A9-viteri/) , My mails: josevns95@gmail.com and jose.viteri@tum.de.
 - 😄 Pronouns: He/Him
 
 
